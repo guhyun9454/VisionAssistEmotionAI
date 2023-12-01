@@ -3,8 +3,12 @@ __pycache__/
 
 #데이터셋
 *.jpg
+*.jpeg
 *.png
 *.jpeg
 *.json
-데이터셋/한국인 감정인식을 위한 복합 영상/Training/
-데이터셋/한국인 감정인식을 위한 복합 영상/검수완료/
+*.lnk
+*.zip
+*.webp
+test_images/
+korean_font/
