@@ -1,5 +1,6 @@
 __pycache__/
 *.py[cod]
+*.hdf5
 
 #데이터셋
 *.jpg
