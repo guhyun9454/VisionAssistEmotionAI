@@ -13,3 +13,4 @@ __pycache__/
 *.webp
 test_images/
 korean_font/
+데이터 전처리/
